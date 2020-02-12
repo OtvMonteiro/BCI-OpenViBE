@@ -1,0 +1,3 @@
+Ligar na direção "PC"
+Porta de comunicação COM3
+Uso com PulseSensor : vermelho em DVDD, preto em GND e roxo em D11
