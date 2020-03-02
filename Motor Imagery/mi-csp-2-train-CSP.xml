@@ -1,7 +1,10 @@
 <OpenViBE-Scenario>
-	<FormatVersion>1</FormatVersion>
-	<Creator>OpenViBE</Creator>
-	<CreatorVersion>1.1.0+git</CreatorVersion>
+	<FormatVersion>2</FormatVersion>
+	<Creator>OpenViBE Designer</Creator>
+	<CreatorVersion>2.2.0</CreatorVersion>
+	<Settings></Settings>
+	<Inputs></Inputs>
+	<Outputs></Outputs>
 	<Boxes>
 		<Box>
 			<Identifier>(0x000016d5, 0x000033f1)</Identifier>
@@ -69,20 +72,12 @@
 					<Value>-224</Value>
 				</Attribute>
 				<Attribute>
-					<Identifier>(0x1fa963f5, 0x1a638cd4)</Identifier>
-					<Value>23</Value>
-				</Attribute>
-				<Attribute>
 					<Identifier>(0x207c9054, 0x3c841b63)</Identifier>
 					<Value>896</Value>
 				</Attribute>
 				<Attribute>
 					<Identifier>(0x4e7b798a, 0x183beafb)</Identifier>
 					<Value>(0x27a4ceec, 0x876d6384)</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0xad100179, 0xa3c984ab)</Identifier>
-					<Value>105</Value>
 				</Attribute>
 				<Attribute>
 					<Identifier>(0xc80ce8af, 0xf699f813)</Identifier>
@@ -132,10 +127,6 @@
 					<Value>-128</Value>
 				</Attribute>
 				<Attribute>
-					<Identifier>(0x1fa963f5, 0x1a638cd4)</Identifier>
-					<Value>33</Value>
-				</Attribute>
-				<Attribute>
 					<Identifier>(0x207c9054, 0x3c841b63)</Identifier>
 					<Value>992</Value>
 				</Attribute>
@@ -150,10 +141,6 @@
 				<Attribute>
 					<Identifier>(0x527ad68d, 0x16d746a0)</Identifier>
 					<Value></Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0xad100179, 0xa3c984ab)</Identifier>
-					<Value>59</Value>
 				</Attribute>
 				<Attribute>
 					<Identifier>(0xc80ce8af, 0xf699f813)</Identifier>
@@ -218,20 +205,12 @@
 					<Value>-16</Value>
 				</Attribute>
 				<Attribute>
-					<Identifier>(0x1fa963f5, 0x1a638cd4)</Identifier>
-					<Value>33</Value>
-				</Attribute>
-				<Attribute>
 					<Identifier>(0x207c9054, 0x3c841b63)</Identifier>
 					<Value>880</Value>
 				</Attribute>
 				<Attribute>
 					<Identifier>(0x4e7b798a, 0x183beafb)</Identifier>
 					<Value>(0xa79941ae, 0x80708445)</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0xad100179, 0xa3c984ab)</Identifier>
-					<Value>145</Value>
 				</Attribute>
 				<Attribute>
 					<Identifier>(0xc80ce8af, 0xf699f813)</Identifier>
@@ -307,20 +286,12 @@
 					<Value>112</Value>
 				</Attribute>
 				<Attribute>
-					<Identifier>(0x1fa963f5, 0x1a638cd4)</Identifier>
-					<Value>23</Value>
-				</Attribute>
-				<Attribute>
 					<Identifier>(0x207c9054, 0x3c841b63)</Identifier>
 					<Value>992</Value>
 				</Attribute>
 				<Attribute>
 					<Identifier>(0x4e7b798a, 0x183beafb)</Identifier>
 					<Value>(0x4b49a133, 0x42f38d94)</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0xad100179, 0xa3c984ab)</Identifier>
-					<Value>172</Value>
 				</Attribute>
 				<Attribute>
 					<Identifier>(0xc80ce8af, 0xf699f813)</Identifier>
@@ -385,20 +356,12 @@
 					<Value>-16</Value>
 				</Attribute>
 				<Attribute>
-					<Identifier>(0x1fa963f5, 0x1a638cd4)</Identifier>
-					<Value>33</Value>
-				</Attribute>
-				<Attribute>
 					<Identifier>(0x207c9054, 0x3c841b63)</Identifier>
 					<Value>1104</Value>
 				</Attribute>
 				<Attribute>
 					<Identifier>(0x4e7b798a, 0x183beafb)</Identifier>
 					<Value>(0xa79941ae, 0x80708445)</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0xad100179, 0xa3c984ab)</Identifier>
-					<Value>145</Value>
 				</Attribute>
 				<Attribute>
 					<Identifier>(0xc80ce8af, 0xf699f813)</Identifier>
@@ -451,10 +414,6 @@
 					<Value>-336</Value>
 				</Attribute>
 				<Attribute>
-					<Identifier>(0x1fa963f5, 0x1a638cd4)</Identifier>
-					<Value>33</Value>
-				</Attribute>
-				<Attribute>
 					<Identifier>(0x207c9054, 0x3c841b63)</Identifier>
 					<Value>992</Value>
 				</Attribute>
@@ -465,10 +424,6 @@
 				<Attribute>
 					<Identifier>(0x4e7b798a, 0x183beafb)</Identifier>
 					<Value>(0xf37b8e7a, 0x1bc33e4e)</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0xad100179, 0xa3c984ab)</Identifier>
-					<Value>153</Value>
 				</Attribute>
 				<Attribute>
 					<Identifier>(0xc46b3d00, 0x3e0454e1)</Identifier>
@@ -508,20 +463,12 @@
 					<Value>192</Value>
 				</Attribute>
 				<Attribute>
-					<Identifier>(0x1fa963f5, 0x1a638cd4)</Identifier>
-					<Value>23</Value>
-				</Attribute>
-				<Attribute>
 					<Identifier>(0x207c9054, 0x3c841b63)</Identifier>
 					<Value>992</Value>
 				</Attribute>
 				<Attribute>
 					<Identifier>(0x4e7b798a, 0x183beafb)</Identifier>
 					<Value>(0x568d148e, 0x650792b3)</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0xad100179, 0xa3c984ab)</Identifier>
-					<Value>118</Value>
 				</Attribute>
 				<Attribute>
 					<Identifier>(0xce18836a, 0x9c0eb403)</Identifier>
@@ -545,24 +492,6 @@
 				<BoxIdentifier>(0x00004125, 0x0000536f)</BoxIdentifier>
 				<BoxInputIndex>1</BoxInputIndex>
 			</Target>
-			<Attributes>
-				<Attribute>
-					<Identifier>(0x1b32c44c, 0x1905e0e9)</Identifier>
-					<Value>7</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x358ae8b5, 0x0f8bacd1)</Identifier>
-					<Value>872</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x3f0a3b27, 0x570913d2)</Identifier>
-					<Value>96</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x6267b5c5, 0x676e3e42)</Identifier>
-					<Value>992</Value>
-				</Attribute>
-			</Attributes>
 		</Link>
 		<Link>
 			<Identifier>(0x000017e6, 0x00004537)</Identifier>
@@ -574,24 +503,6 @@
 				<BoxIdentifier>(0x00005277, 0x000014a2)</BoxIdentifier>
 				<BoxInputIndex>0</BoxInputIndex>
 			</Target>
-			<Attributes>
-				<Attribute>
-					<Identifier>(0x1b32c44c, 0x1905e0e9)</Identifier>
-					<Value>-105</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x358ae8b5, 0x0f8bacd1)</Identifier>
-					<Value>984</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x3f0a3b27, 0x570913d2)</Identifier>
-					<Value>-37</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x6267b5c5, 0x676e3e42)</Identifier>
-					<Value>1096</Value>
-				</Attribute>
-			</Attributes>
 		</Link>
 		<Link>
 			<Identifier>(0x00003ec1, 0x00007d99)</Identifier>
@@ -603,24 +514,6 @@
 				<BoxIdentifier>(0x000016d5, 0x000033f1)</BoxIdentifier>
 				<BoxInputIndex>0</BoxInputIndex>
 			</Target>
-			<Attributes>
-				<Attribute>
-					<Identifier>(0x1b32c44c, 0x1905e0e9)</Identifier>
-					<Value>-313</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x358ae8b5, 0x0f8bacd1)</Identifier>
-					<Value>992</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x3f0a3b27, 0x570913d2)</Identifier>
-					<Value>-240</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x6267b5c5, 0x676e3e42)</Identifier>
-					<Value>896</Value>
-				</Attribute>
-			</Attributes>
 		</Link>
 		<Link>
 			<Identifier>(0x000042fc, 0x00007f51)</Identifier>
@@ -632,24 +525,6 @@
 				<BoxIdentifier>(0x000027da, 0x00005cde)</BoxIdentifier>
 				<BoxInputIndex>0</BoxInputIndex>
 			</Target>
-			<Attributes>
-				<Attribute>
-					<Identifier>(0x1b32c44c, 0x1905e0e9)</Identifier>
-					<Value>-206</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x358ae8b5, 0x0f8bacd1)</Identifier>
-					<Value>896</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x3f0a3b27, 0x570913d2)</Identifier>
-					<Value>-149</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x6267b5c5, 0x676e3e42)</Identifier>
-					<Value>984</Value>
-				</Attribute>
-			</Attributes>
 		</Link>
 		<Link>
 			<Identifier>(0x00004a99, 0x00007f97)</Identifier>
@@ -661,24 +536,6 @@
 				<BoxIdentifier>(0x00005277, 0x000014a2)</BoxIdentifier>
 				<BoxInputIndex>1</BoxInputIndex>
 			</Target>
-			<Attributes>
-				<Attribute>
-					<Identifier>(0x1b32c44c, 0x1905e0e9)</Identifier>
-					<Value>-105</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x358ae8b5, 0x0f8bacd1)</Identifier>
-					<Value>999</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x3f0a3b27, 0x570913d2)</Identifier>
-					<Value>-37</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x6267b5c5, 0x676e3e42)</Identifier>
-					<Value>1111</Value>
-				</Attribute>
-			</Attributes>
 		</Link>
 		<Link>
 			<Identifier>(0x00006640, 0x000019bb)</Identifier>
@@ -690,24 +547,6 @@
 				<BoxIdentifier>(0x000027da, 0x00005cde)</BoxIdentifier>
 				<BoxInputIndex>1</BoxInputIndex>
 			</Target>
-			<Attributes>
-				<Attribute>
-					<Identifier>(0x1b32c44c, 0x1905e0e9)</Identifier>
-					<Value>-313</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x358ae8b5, 0x0f8bacd1)</Identifier>
-					<Value>1007</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x3f0a3b27, 0x570913d2)</Identifier>
-					<Value>-149</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x6267b5c5, 0x676e3e42)</Identifier>
-					<Value>999</Value>
-				</Attribute>
-			</Attributes>
 		</Link>
 		<Link>
 			<Identifier>(0x000068fa, 0x00007623)</Identifier>
@@ -719,24 +558,6 @@
 				<BoxIdentifier>(0x00002d82, 0x00002d33)</BoxIdentifier>
 				<BoxInputIndex>0</BoxInputIndex>
 			</Target>
-			<Attributes>
-				<Attribute>
-					<Identifier>(0x1b32c44c, 0x1905e0e9)</Identifier>
-					<Value>-105</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x358ae8b5, 0x0f8bacd1)</Identifier>
-					<Value>984</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x3f0a3b27, 0x570913d2)</Identifier>
-					<Value>-37</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x6267b5c5, 0x676e3e42)</Identifier>
-					<Value>872</Value>
-				</Attribute>
-			</Attributes>
 		</Link>
 		<Link>
 			<Identifier>(0x00006f78, 0x00003d05)</Identifier>
@@ -748,24 +569,6 @@
 				<BoxIdentifier>(0x00002d82, 0x00002d33)</BoxIdentifier>
 				<BoxInputIndex>1</BoxInputIndex>
 			</Target>
-			<Attributes>
-				<Attribute>
-					<Identifier>(0x1b32c44c, 0x1905e0e9)</Identifier>
-					<Value>-105</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x358ae8b5, 0x0f8bacd1)</Identifier>
-					<Value>999</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x3f0a3b27, 0x570913d2)</Identifier>
-					<Value>-37</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x6267b5c5, 0x676e3e42)</Identifier>
-					<Value>887</Value>
-				</Attribute>
-			</Attributes>
 		</Link>
 		<Link>
 			<Identifier>(0x00007621, 0x0000772e)</Identifier>
@@ -777,24 +580,6 @@
 				<BoxIdentifier>(0x00004125, 0x0000536f)</BoxIdentifier>
 				<BoxInputIndex>0</BoxInputIndex>
 			</Target>
-			<Attributes>
-				<Attribute>
-					<Identifier>(0x1b32c44c, 0x1905e0e9)</Identifier>
-					<Value>-105</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x358ae8b5, 0x0f8bacd1)</Identifier>
-					<Value>999</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x3f0a3b27, 0x570913d2)</Identifier>
-					<Value>96</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x6267b5c5, 0x676e3e42)</Identifier>
-					<Value>977</Value>
-				</Attribute>
-			</Attributes>
 		</Link>
 		<Link>
 			<Identifier>(0x000077f9, 0x00001114)</Identifier>
@@ -806,24 +591,6 @@
 				<BoxIdentifier>(0x0000743e, 0x000010d2)</BoxIdentifier>
 				<BoxInputIndex>0</BoxInputIndex>
 			</Target>
-			<Attributes>
-				<Attribute>
-					<Identifier>(0x1b32c44c, 0x1905e0e9)</Identifier>
-					<Value>130</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x358ae8b5, 0x0f8bacd1)</Identifier>
-					<Value>992</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x3f0a3b27, 0x570913d2)</Identifier>
-					<Value>176</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x6267b5c5, 0x676e3e42)</Identifier>
-					<Value>992</Value>
-				</Attribute>
-			</Attributes>
 		</Link>
 		<Link>
 			<Identifier>(0x00007a10, 0x000008c3)</Identifier>
@@ -835,24 +602,6 @@
 				<BoxIdentifier>(0x00004125, 0x0000536f)</BoxIdentifier>
 				<BoxInputIndex>2</BoxInputIndex>
 			</Target>
-			<Attributes>
-				<Attribute>
-					<Identifier>(0x1b32c44c, 0x1905e0e9)</Identifier>
-					<Value>7</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x358ae8b5, 0x0f8bacd1)</Identifier>
-					<Value>1096</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x3f0a3b27, 0x570913d2)</Identifier>
-					<Value>96</Value>
-				</Attribute>
-				<Attribute>
-					<Identifier>(0x6267b5c5, 0x676e3e42)</Identifier>
-					<Value>1007</Value>
-				</Attribute>
-			</Attributes>
 		</Link>
 	</Links>
 	<Comments>
@@ -919,7 +668,7 @@ telling the &lt;i&gt;Player Controller&lt;/i&gt; to pause the scenario.</Text>
 		<Entry>
 			<Identifier>(0x0000775c, 0x000078ff)</Identifier>
 			<Type>(0x3bcce5d2, 0x43f2d968)</Type>
-			<Data>[{"boxIdentifier":"(0xffffffff, 0xffffffff)","childCount":1,"height":400,"identifier":"(0x00001209, 0x000052ed)","index":0,"name":"Default window","parentIdentifier":"(0xffffffff, 0xffffffff)","type":1,"width":400},{"boxIdentifier":"(0xffffffff, 0xffffffff)","childCount":1,"identifier":"(0x00002598, 0x00002e05)","index":0,"name":"Default tab","parentIdentifier":"(0x00001209, 0x000052ed)","type":2},{"boxIdentifier":"(0xffffffff, 0xffffffff)","childCount":0,"identifier":"(0x0000121e, 0x000031a2)","index":0,"name":"Empty","parentIdentifier":"(0x00002598, 0x00002e05)","type":0}]</Data>
+			<Data>[{"boxIdentifier":"(0xffffffff, 0xffffffff)","childCount":1,"height":400,"identifier":"(0x00001209, 0x000052ed)","name":"Default window","parentIdentifier":"(0xffffffff, 0xffffffff)","type":1,"width":400},{"boxIdentifier":"(0xffffffff, 0xffffffff)","childCount":1,"identifier":"(0x00002598, 0x00002e05)","index":0,"name":"Default tab","parentIdentifier":"(0x00001209, 0x000052ed)","type":2},{"boxIdentifier":"(0xffffffff, 0xffffffff)","childCount":0,"identifier":"(0x0000121e, 0x000031a2)","index":0,"name":"Empty","parentIdentifier":"(0x00002598, 0x00002e05)","type":0}]</Data>
 		</Entry>
 	</Metadata>
 </OpenViBE-Scenario>
